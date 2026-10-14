@@ -19,3 +19,17 @@ li {
     font-weight: bold;
     color: seagreen;
 }
+
+.deconseillee {
+    font-weight: bold;
+    color: #FFC0CB;
+}
+
+em {
+    font-style: normal;
+    font-weight: bold;
+    color: #2980b9;
+    background-color: #f4f6f7;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
